@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# build/cache directories
+.cache
+.vercel
+.output
+public/build
+api/build
+
+# database file
+prisma/dev.db
+
+# environment variables
+.env
+
+# misc
+.idea
